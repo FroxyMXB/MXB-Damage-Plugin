@@ -42,15 +42,7 @@ For Steam, open **Steam → MX Bikes → Manage → Browse local files → plugi
 
 Manual installs do not receive the installer’s first-install detection, but the plugin can still update itself later when automatic updates are enabled.
 
-## Do not install here
 
-Do not put the plugin in:
-
-```text
-Documents\PiBoSo\MX Bikes\mods
-```
-
-Do not delete the game's native files such as `proxy64.dlo`, `proxy_udp64.dlo`, or `xinput64.dli`.
 
 ## In-game use
 
