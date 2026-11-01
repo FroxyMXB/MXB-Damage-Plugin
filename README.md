@@ -6,7 +6,7 @@ A realistic visual damage plugin for MX Bikes featuring dynamic deformation, bre
 
 1. Download **[MXB-Damage-Setup.exe](https://github.com/FroxyMXB/MXB-Damage-Plugin/releases/latest/download/MXB-Damage-Setup.exe)** from the latest release.
 2. Run the installer.
-3. It finds your MX Bikes installation, downloads the signed release, and installs the plugin into the game's `plugins` folder.
+3. It finds your MX Bikes installation, if it does not, choose location manually.
 
 The installer does not modify bikes, physics, ReShade, profiles, or other plugins. Your settings are kept when updating.
 
